@@ -1,0 +1,8 @@
+nav, header, .contenedor, footer{
+    max-width: 92%;
+    margin: auto;
+}
+body {
+    margin: 0;
+    background-image: url(1.jpg)
+}
