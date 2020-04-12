@@ -1,4 +1,4 @@
-nav, header, .contenedor, footer{
+nav, header, .contenedor{
     max-width: 92%;
     margin: auto;
     border-radius: 0.4em;
@@ -6,6 +6,10 @@ nav, header, .contenedor, footer{
 nav { 
     text-align: center;
     background-color: cyan;
+}
+
+footer {
+    text-align: center;
 }
 
 body {
@@ -34,7 +38,7 @@ h1 {
 aside { 
     display: inline-block;
     max-width: 27%;
-    vertical-align: top;
+    vertical-align: middle;
   
 }
 
