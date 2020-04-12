@@ -5,6 +5,7 @@ nav, header, .contenedor, footer{
 }
 nav { 
     text-align: center;
+    background-color: cyan;
 }
 
 body {
