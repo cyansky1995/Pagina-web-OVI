@@ -2,6 +2,9 @@ nav, header, .contenedor, footer{
     max-width: 92%;
     margin: auto;
 }
+nav { 
+    text-align: center;
+}
 body {
     background-image:url(../IMG/1.jpg);
     background-repeat:no-repeat;
@@ -27,4 +30,31 @@ h1 {
 aside { 
     display: inline-block;
     max-width: 27%;
+}
+.menu li{
+    display:inline-block ;
+}
+li a, boton{
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    padding: 0.9em 1em;
+    
+}
+.ListaDesplegable{
+    display: none;
+    background-color: ghostwhite;
+    position: absolute;
+
+}
+.ListaDesplegable a{
+    color: black;
+    display: block;
+    text-align: left;
+}
+.boton:hover .ListaDesplegable{
+    display: block;
+}
+li a:hover {
+
 }
