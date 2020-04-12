@@ -6,10 +6,10 @@ nav {
     text-align: center;
 }
 .pie { 
-    text-align: center;
+
 }
 body {
-    background-image:url(../IMG/2.jpg);
+    background-image:url(../IMG/1.jpg);
     background-repeat:no-repeat;
     background-size: cover;
     background-position: center;
@@ -60,6 +60,4 @@ li a, boton{
 .boton:hover .ListaDesplegable{
     display: block;
 }
-li a:hover {
-
 }
