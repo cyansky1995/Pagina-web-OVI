@@ -5,6 +5,9 @@ nav, header, .contenedor, footer{
 nav { 
     text-align: center;
 }
+.pie { 
+    text-align: center;
+}
 body {
     background-image:url(../IMG/2.jpg);
     background-repeat:no-repeat;
@@ -30,7 +33,9 @@ h1 {
 aside { 
     display: inline-block;
     max-width: 27%;
+  
 }
+
 .menu li{
     display:inline-block ;
 }
