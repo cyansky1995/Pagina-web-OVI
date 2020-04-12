@@ -3,6 +3,28 @@ nav, header, .contenedor, footer{
     margin: auto;
 }
 body {
-    margin: 0;
-    background-image: url(1.jpg)
+    background-image:url(../IMG/1.jpg);
+    background-repeat:no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+a{
+    color: #F0B429;
+}
+h3 {
+    color: #F0B429;
+}
+article {
+    color: #B3B3B3;
+}
+h1 {
+    color: #F0B429;
+}
+.central {
+    display: inline-block;
+    max-width: 65%;
+}
+aside { 
+    display: inline-block;
+    max-width: 27%;
 }
